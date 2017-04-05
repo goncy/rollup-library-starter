@@ -1,6 +1,6 @@
 # My library name (`my-library-name`)
-[![Build Status](https://travis-ci.org/goncy/my-library-name.svg?branch=master)](https://travis-ci.org/goncy/my-library-name)
-[![Coverage Status](https://coveralls.io/repos/github/goncy/my-library-name/badge.svg?branch=master)](https://coveralls.io/github/goncy/my-library-name?branch=master)
+[![Build Status](https://travis-ci.org/goncy/rollup-library-starter.svg?branch=master)](https://travis-ci.org/goncy/rollup-library-starter)
+[![Coverage Status](https://coveralls.io/repos/github/goncy/rollup-library-starter/badge.svg?branch=master)](https://coveralls.io/github/goncy/rollup-library-starter?branch=master)
 
 My library description.
 
