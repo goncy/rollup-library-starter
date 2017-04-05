@@ -15,7 +15,7 @@ A small description about what my library does
 import {myMethod} from 'my-library-name' // Importing my library
 const myImplementation = myMethod() // Creating an instance
 
-myImplementation.makeSuperApplication // Calling a method
+myImplementation.makeSuperApplication() // Calling a method
 ```
 
 
